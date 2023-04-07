@@ -7,10 +7,14 @@
 
 - 📫 How to reach me **startaglia89@gmail.com**
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/stats?cursusId=21&coalitionId=124" alt="startagl's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/stats?cursusId=21&coalitionId=124" alt="startagl's 42 stats"/></a>
 
 
- <a href="https://github.com/startaglia/libft" style="color: red!important;"> LIBFT-> </a><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/2935535" alt="startagl's 42 Libft Score" /></a>
+<h2>
+ <a href="https://github.com/startaglia/libft" style="color: red!important;"> LIBFT-> </a>
+ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/2935535" alt="startagl's 42 Libft Score" /></a>
+</h2>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
