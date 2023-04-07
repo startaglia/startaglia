@@ -8,13 +8,6 @@
 - 📫 How to reach me **startaglia89@gmail.com**
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/stats?cursusId=21&coalitionId=124" alt="startagl's 42 stats"/></a>
-
-
-<h2>
- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/2935535" alt="startagl's 42 Libft Score" /></a>
-</h2>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/simone-tartaglia-134723248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simone-tartaglia-134723248/" height="30" width="40" /></a>
