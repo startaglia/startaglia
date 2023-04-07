@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=startaglia&show_icons=true&theme=dark&locale=en" alt="startaglia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=startaglia&theme=highcontrast" alt="startaglia" /></p>
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/stats?cursusId=21&coalitionId=124" alt="startagl's 42 stats" /></a>
