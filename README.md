@@ -11,7 +11,6 @@
 
 
 <h2>
- <a href="https://github.com/startaglia/libft" style="color: red!important;"> LIBFT-> </a>
  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/2935535" alt="startagl's 42 Libft Score" /></a>
 </h2>
 
