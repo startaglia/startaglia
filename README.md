@@ -1,5 +1,3 @@
-
-
 <a href="https://42roma.it/"><img src="https://github.com/startaglia/startaglia/blob/main/.media/banner.png"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=startaglia&label=Profile%20views&color=0f4a8a&style=plastic" alt="startaglia" /> </p>
 
