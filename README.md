@@ -1,3 +1,6 @@
+
+
+<a href="https://42roma.it/"><img src="https://github.com/startaglia/startaglia/blob/main/.media/banner.png"></a>
 <h1 align="center">Hi 👋, I'm Simone Tartaglia</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=startaglia&label=Profile%20views&color=0f4a8a&style=plastic" alt="startaglia" /> </p>
 
