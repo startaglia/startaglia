@@ -21,16 +21,16 @@ Ask me about anything! I'm happy to help ☺
   
 <div>
   <img align='left' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=startaglia&theme=onedark" width="400" />
-  <img align='right' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=startaglia&theme=nord_dark" width="500"/>
+  <img align='right' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=startaglia&theme=nord_dark" width="400"/>
 </div>
 </br></br></br></br></br></br></br></br></br>
 
 <div>
   <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=startaglia&theme=tokyonight" width="400" />
-  <img align='right' src="https://github-readme-streak-stats.herokuapp.com/?user=startaglia&theme=dracula" width="500"/>
+  <img align='right' src="https://github-readme-streak-stats.herokuapp.com/?user=startaglia&theme=dracula" width="400"/>
   
 </br></br></br></br></br></br></br></br></br>
-  <img align='right' src="https://github-profile-trophy.vercel.app/?username=startaglia&theme=algolia" width="500"/>
+  <img align='right' src="https://github-profile-trophy.vercel.app/?username=startaglia&theme=algolia" width="400"/>
 </div>
 </br></br></br></br></br></br></br>
 
