@@ -32,7 +32,7 @@ Ask me about anything! I'm happy to help ☺
 </br></br></br></br></br></br></br></br></br>
   <img align='right' src="https://github-profile-trophy.vercel.app/?username=startaglia&theme=algolia" width="400"/>
 </div>
-</br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br>
 
 <h3>Languages and Tools:</h3>
 <p align="left">
