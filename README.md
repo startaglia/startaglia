@@ -1,11 +1,11 @@
 <a href="https://42roma.it/"><img src="https://github.com/startaglia/startaglia/blob/main/.media/banner.png"></a>
-Hi! I'm Simone Tartaglia, I'm a developer and I'm from Italy, Rome.
-I have a full stack web developer background. My background is as a full stack web developer. In the last year I started an in-depth study path as a software developer with C and C++, developing small tools, software and videogames.</br>
-I have many interests and passions such as science, reading, playing music, playing sports, playing chess and more. </br>
+Hi! I'm Simone Tartaglia, I'm a developer and I'm from Rome.
+I have a full stack web developer background. In the last year I started an in-depth study as a software developer with C and C++, developing small tools, software and videogames.</br>
+Besides coding I have other interests and passions such as science, reading, playing drums and percussions, judo, and chess. </br>
 Ask me about anything! I'm happy to help ☺
 
-- 🔭 **I’m currently studying on:**
-  - 42 Roma Luiss
+- 🔭 **I’m currently studying at:**
+  - 42Roma Luiss
 
 - 🌱 **I’m currently learning:**
   - C
@@ -13,6 +13,7 @@ Ask me about anything! I'm happy to help ☺
   
 - 📫 How to reach me:
   - Email: [startaglia89@gmail.com](mailto:startaglia89@gmail.com)
+  - Instagram: [Simone Tartaglia](https://www.instagram.com/sandyclaws89/)
   - GitHub: [startaglia](https://github.com/startaglia)
   - LinkedIn: [Simone Tartaglia](https://www.linkedin.com/in/simone-tartaglia-134723248/)
 
