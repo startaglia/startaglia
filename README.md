@@ -10,24 +10,26 @@ Ask me about anything! I'm happy to help ☺
 - 🌱 **I’m currently learning:**
   - C
   - C++
-
+  
 - 📫 How to reach me:
   - Email: [startaglia89@gmail.com](mailto:startaglia89@gmail.com)
   - GitHub: [startaglia](https://github.com/startaglia)
   - LinkedIn: [Simone Tartaglia](https://www.linkedin.com/in/simone-tartaglia-134723248/)
 
 <h3>My github stats:</h3>
+  
 <div>
   <img align='left' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=startaglia&theme=onedark" width="400" />
   <img align='right' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=startaglia&theme=nord_dark" width="500"/>
-  
 </div>
 </br></br></br></br></br></br></br></br></br>
+
 <div>
   <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=startaglia&theme=tokyonight" width="400" />
   <img align='right' src="https://github-readme-streak-stats.herokuapp.com/?user=startaglia&theme=dracula" width="500"/>
-  </br></br></br></br></br></br></br></br></br>
-  <img align='right' src="https://github-profile-trophy.vercel.app/?username=startaglia&theme=merko" width="500"/>
+  
+</br></br></br></br></br></br></br></br></br>
+  <img align='right' src="https://github-profile-trophy.vercel.app/?username=startaglia&theme=algolia" width="500"/>
 </div>
 </br></br></br></br></br></br></br>
 <h3>Languages and Tools:</h3>
